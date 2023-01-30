@@ -1,1 +1,1 @@
-# omics_models
+# Application of CNN for TFBSs predictions!
